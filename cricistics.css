@@ -1,0 +1,67 @@
+<html>
+<head>
+<title> Cricistics </title>
+</head>
+<body bgcolor="" text="">
+<p align="center" style="font-family:algerian;">
+<b>
+<font size="06" color="">
+CRICISTICS
+</font>
+</b>
+</p>
+<?php
+$c=$_POST['passtxt'];
+?>
+<table align="right" cellsapcing="0" cell padding="0">
+<tr>
+<td>
+<form name="passtxt3" method="post" action="editprofile1.php">
+<input type="text" name="passtxt2" value="<?php echo $c;?>"hidden>
+<input type="submit" name="editpro" value="Edit Profile">
+</form>
+</td>
+<td>
+<form name="passtxt5" method="post" action="profile.php">
+<input type="text" name="passtxt4" value="<?php echo $c;?>"hidden>
+<input type="submit" name="pro" value="Profile">
+</form>
+</td>
+<td>
+<form name="signout2" action="login.html">
+<input type="submit" name="signout3" value="Sign out">
+</form>
+</td>
+</tr>
+</table>
+<br><br><br>
+<table align="right" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<form name="search" method="post" action="result.php">
+<input type="text" name="searchbox" value="">
+<input type="submit" name="serachbutton" value="Search">
+</form>
+</td>
+</tr>
+</table>
+Welcome <?php echo $c;?><br>
+A site for the CRICKET fans!!!<br><br>
+<form name="passtxt7" method="post" action="specialmoments.php">
+<input type="text" name="passtxt6" value="<?php echo $c;?>"hidden>
+<input type="submit" name="spe" value="Special Moments">
+</form>
+<form name="playerstats" method="post" action="playerstats.html">
+<button type="submit" name="playerstats1" value="Player Statistics">Player Statistics</button>
+</form>
+&nbsp&nbsp&nbsp&nbsp
+<a href="scoreboards.html"> Scoreboards </a>
+<br><br>
+<dialog open>
+<a href="iccplayerrankings.html"> ICC PLAYER RANKINGS </a>
+<br>
+<br>
+<a href="iccteamrankings.html"> ICC TEAM RANKINGS </a>
+</dialog>
+</body>
+</html>

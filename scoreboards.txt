@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>scoreboard</title>
+</head>
+<body>
+SCOREBOARD
+<br><br><br>
+See all your favourite Player's DEBUT match scorecard
+<br><br>
+<form name="scoresearch" method="post" action="go3.php">
+Enter a year :<input type="text" name="scoresearch1" value="">
+&nbsp&nbsp&nbsp
+<input type="submit" name="scoresearch2" value="Search">
+</form>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<html>
+<head>
+<link rel="stylesheet" src="external.css">
+<title>Sachin odi</title>
+</head>
+<body>
+<table cellspacing="05" cellpadding="05">
+<tr class="scorecard">
+<td>Pakistan Innings</td>
+<td></td>
+<td>R</td>
+<td>B</td>
+<td>4s</td>
+<td>6s</td>
+<td>SR</td>
+</tr>
+</table>
+</body>
+</html>

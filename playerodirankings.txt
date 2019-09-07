@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>plaodirankings</title>
+</head>
+<body>
+<font size="04">
+ICC PLAYER RANKINGS - 0DI
+</font>
+<table border="05" cellspacing="05" cellpadding="05">
+<tr>
+<th>S.No</th>
+<th>Points</th>
+<th>Name</th>
+<th>Nationality</th>
+</tr>
+<tr>
+<td>1</td>
+<td>925</td>
+<td>Steve Smith</td>
+<td><img src="australian flag.png"</td>
+</tr>
+<tr>
+<td>2</td>
+<td>889</td>
+<td>Joe Root</td>
+<td>England</td>
+</tr>
+<tr>
+<td>3</td>
+<td>868</td>
+<td>Kane Willaimson</td>
+<td>New Zealand</td>
+</tr>
+<tr>
+<td>4</td>
+<td>860</td>
+<td>Hashim Amla</td>
+<td>South Afria</td>
+</tr>
+<tr>
+<td>5</td>
+<td>826</td>
+<td>Younis Khan</td>
+<td>Pakistan</td>
+</tr>
+<tr>
+<td>6</td>
+<td>818</td>
+<td>AB DeVilliers</td>
+<td>South Africa</td>
+</tr>
+<tr>
+<td>7</td>
+<td>925</td>
+<td>Steve Smith</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td>1</td>
+<td>925</td>
+<td>Steve Smith</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td>1</td>
+<td>925</td>
+<td>Steve Smith</td>
+<td>Australia</td>
+</tr>
+<tr>
+<td>1</td>
+<td>925</td>
+<td>Steve Smith</td>
+<td>Australia</td>
+</tr>
+</body>
+</html>

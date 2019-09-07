@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Special Moments</title>
+</head>
+<body>
+<?php
+$a=$_POST['passtxt6'];
+?>
+<form name="yuvi6sixes" method="post" action="yuvraj6sixes.php">
+<div class="buttons">
+<a class="link" href="">
+Yuvraj Singh's 6 sixes
+</a>
+</div>
+</form>
+</body>
+</html>

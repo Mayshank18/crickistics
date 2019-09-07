@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>top</head>
+</title>
+<body bgcolor="" text="">
+<center>
+<b>
+<h2>ICC PLAYER RANKINGS</h2>
+</center>
+</b>
+</body>
+</html>

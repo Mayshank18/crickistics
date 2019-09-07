@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>playert20irankings</title>
+</head>
+<body>
+<font size="04">
+ICC PLAYER RANKINGS - T20I
+</font>
+<table border="05" cellspacing="05" cellpadding="05">
+<tr>
+<th>S.No</th>
+<th>Points</th>
+<th>Name</th>
+<th>Nationality</th>
+</tr>
+<tr>
+<td>1</td>
+<td>889</td>
+<td>Virat Kohli</td>
+<td align="center"><img src="indian flag.jp"g width="65" height="25"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>803</td>
+<td>Aaron Finch</td>
+<td align="center"><img src="australian flag.png" width="65" height="25"></td>
+</tr>
+<tr>
+<td>3</td>
+<td>754</td>
+<td>Martin Guptill</td>
+<td align="center"><img src="new zealand flag.png" width="65" height="25"></td>
+</tr>
+<tr>
+<td>4</td>
+<td>750</td>
+<td>Joe Root</td>
+<td align="center"><img src="england flag.png" width="65" height="25"></td>
+</tr>
+<tr>
+<td>5</td>
+<td>741</td>
+<td>Francois Du Plessis</td>
+<td align="center"><img src="south african flag.png" width="65" height="25"></td>
+</tr>
+<tr>
+<td>6</td>
+<td>719</td>
+<td>Kane Willaimson</td>
+<td align="center"><img src="new zealand flag.png" width="65" height="25"></td>
+</tr>
+<tr>
+<td>7</td>
+<td>713</td>
+<td>Alex Hales</td>
+<td align="center"><img src="england flag.png" width="65" height="25"></td>
+</tr>
+<tr>
+<td>8</td>
+<td>696</td>
+<td>Chris Gayle</td>
+<td align="center"><img src="west indian flag.png" width="65" height="25"></td>
+</tr>
+<tr>
+<td>9</td>
+<td>677</td>
+<td>Hamilton Masakadza</td>
+<td align="center"><img src="zimbabwe flag.png" width="65" height="25"></td>
+</tr>
+<tr>
+<td>10</td>
+<td>674</td>
+<td>Mohammad Shahzad</td>
+<td align="center"><img src="afghanistan flag.png" width="65" height="25"></td>
+</tr>
+</table>
+</body>
+</html>

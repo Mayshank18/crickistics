@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>head</tile>
+</head>
+<body>
+<?php
+$a=$_POST['passtxt2'];
+$mysqlporyt=getenv('S2G_MYSQL_PORT');
+$dbhost="localhost:".$mysqlport;
+$dbuser='root';
+$dbpass='';
+$conn=mysql_connect($dbhost,$dbuser,&dbpass);
+mysql_select_db('createaccount');
+$query_select="select * from createaccount1 where user_name='$a'";
+$result=mysql_query($query_select);
